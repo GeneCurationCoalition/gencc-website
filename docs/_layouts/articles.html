@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body>
+  {% include header-standard.html %}
+
+  <main id="content" class="container" role="main">
+    {{ content }}
+    <hr />
+    {% assign sorted_items = site.articles  %}
+    {% for item in sorted_items %}
+    {% if item.show_status != false %}
+    <div class="mb-4 pt-4 pb-4 row">
+      <div class="col-12">
+        <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
+          <img src="{{ site.url }}assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+        </div>
+        <h2 class="mt-0 pt-0">{{ item.title }}</h2>
+        {{ item.summary }}
+        {% assign item-content = item.content | strip_newlines %}
+        {% if item-content != "" %}
+        <div class="mt-1">
+          <a href="{{ site.url }}{{ item.url }}" title="Learn more about {{ item.link_file_1_label }}"><i class="fas fa-angle-double-right"></i> Read More...</a>
+        </div>
+        {% endif %}
+
+        {% if item.link_file_1_to %}
+        <div class="mt-1">
+          <a href="{{ item.link_file_1_to }}" title="{{ item.link_file_1_label }}"><i class="fas fa-file"></i> {{ item.link_file_1_label }}</a>
+        </div>
+        {% endif %}
+
+        {% if item.link_file_2_to %}
+        <div class="mt-1">
+          <a href="{{ item.link_file_2_to }}" title="{{ item.link_file_2_label }}"><i class="fas fa-file"></i> {{ item.link_file_2_label }}</a>
+        </div>
+        {% endif %}
+
+        {% if item.link_website_1_to %}
+        <div class="mt-1">
+          <a href="{{ item.link_website_1_to }}" title="{{ item.link_website_1_label }}"><i class="fas fa-external-link-alt"></i> {{ item.link_website_1_label }}</a>
+        </div>
+        {% endif %}
+
+        {% if item.link_website_2_to %}
+        <div class="mt-1">
+          <a href="{{ item.link_website_2_to }}" title="{{ item.link_website_2_label }}"><i class="fas fa-external-link-alt"></i> {{ item.link_website_2_label }}</a>
+        </div>
+        {% endif %}
+      </div>
+      <div class="col-12  mt-3 mb-0">
+        <hr>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+
+    {% include footer.html %}
+  </main>
+</body>
+
+</html>

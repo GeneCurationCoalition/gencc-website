@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body>
+  {% include header-standard.html %}
+
+  <main id="content" class="container" role="main">
+    {{ content }}
+    <hr />
+    {% for item in site.members %}
+    {% if item.show_status != false %}
+    <div class="mb-4 pb-4 row">
+      <div class="col-12">
+        {% if item.logo_1_file %}
+          <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
+            <img src="{{ site.url }}assets/{{ item.logo_1_file }}" alt="{{ item.logo_1_label }}" class="img-fluid" />
+          </div>
+        {% endif %}
+        {% if item.logo_2_file %}
+          <div class="col-sm-2 float-right">
+            <img src="{{ site.url }}assets/{{ item.logo_2_file }}" alt="{{ item.logo_2_label }}" class="img-fluid" />
+          </div>
+        {% endif %}
+
+        <h2 class="mt-0 pt-0">{{ item.title }}</h2>
+        {{ item.summary }}
+
+        {% if item.link_website_1_to %}
+          <div class="mt-2">
+            <a href="{{ item.link_website_1_to }}" title="{{ item.link_website_1_label }}"><i class="fas fa-external-link-alt"></i>{{ item.link_website_1_label }}</a>
+          </div>
+        {% endif %}
+
+        {% if item.link_website_2_to %}
+          <div class="mt-2">
+            <a href="{{ item.link_website_2_to }}" title="{{ item.link_website_2_label }}"><i class="fas fa-external-link-alt"></i>{{ item.link_website_2_label }}</a>
+          </div>
+        {% endif %}
+        </div>
+      <div class="col-12  mt-3 mb-3">
+        <hr>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    {% include footer.html %}
+  </main>
+</body>
+
+</html>

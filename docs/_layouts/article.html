@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body>
+  {% include header-standard.html %}
+
+  <main id="content" class="container" role="main">
+    <a href="{{ site.url }}{{ site.url_articles }}" class="pb-3"><i class="fas fa-arrow-circle-left"></i> Return to articles</a>
+    <h1>{{ page.name }}</h1>
+    {{ content }}
+
+    {% if page.link_file_1_to %}
+    <div class="mt-1">
+      <a href="{{ page.link_file_1_to }}" title="{{ page.link_file_1_label }}"><i class="fas fa-file"></i>
+        {{ page.link_file_1_label }}</a>
+    </div>
+    {% endif %}
+
+    {% if page.link_file_2_to %}
+    <div class="mt-1">
+      <a href="{{ page.link_file_2_to }}" title="{{ page.link_file_2_label }}"><i class="fas fa-file"></i>
+        {{ page.link_file_2_label }}</a>
+    </div>
+    {% endif %}
+
+    {% if page.link_website_1_to %}
+    <div class="mt-1">
+      <a href="{{ page.link_website_1_to }}" title="{{ page.link_website_1_label }}"><i
+          class="fas fa-external-link-alt"></i> {{ page.link_website_1_label }}</a>
+    </div>
+    {% endif %}
+
+    {% if page.link_website_2_to %}
+    <div class="mt-1">
+      <a href="{{ page.link_website_2_to }}" title="{{ page.link_website_2_label }}"><i
+          class="fas fa-external-link-alt"></i> {{ itpageem.link_website_2_label }}</a>
+    </div>
+    {% endif %}
+
+
+    {% include footer.html %}
+  </main>
+</body>
+
+</html>

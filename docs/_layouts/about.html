@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+  <body>
+    {% include header-standard.html %}
+
+    <main id="content" class="container" role="main">
+      <div class="row">
+        <div class="col-12">
+          <h1>{{ page.title }}</h1>
+        </div>
+        <div class="col-md-5">
+          {{ content }}
+        </div>
+        <div class="col-md-5 offset-md-2">
+          <h2>{{ page.leadership_title }}</h2>
+          <ul class="list-group"></ul>
+          {% assign sorted_items = site.leadership  %}
+          {% for item in sorted_items %}
+          {% if item.show_status != false %}
+            <li class="list-group-item">
+              <h4 class="h5 m-0 p-0 font-weight-bold">
+                {{ item.title }}
+              </h4>
+                {% if item.position %}
+                  <i>{{ item.position }}</i>
+                {% endif %}
+              </h4>
+              <div class="small text-muted" itemprop="title">{{ item.organization }}</div>
+            </li>
+          {% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

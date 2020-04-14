@@ -6,7 +6,7 @@ title: Fiona Cunningham
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
-organization: EBI
+organization: EMBL-EBI
 # The sort order. Recommended by last name but can be change as needed
 sort: Cunningham
 # Show this entry as a page

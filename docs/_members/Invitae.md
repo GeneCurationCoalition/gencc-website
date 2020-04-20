@@ -4,7 +4,7 @@ layout: member
 # Member Name
 title: Invitae
 # Optional summary info about the member
-summary:Invitae is a CLIA-certified fee-for-service clinical testing laboratory.
+summary: Invitae is a CLIA-certified fee-for-service clinical testing laboratory.
 
 # Optional label of and website address to a website (Two availble at the moment)
 link_website_1_label: Website

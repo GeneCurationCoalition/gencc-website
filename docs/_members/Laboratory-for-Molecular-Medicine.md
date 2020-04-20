@@ -8,7 +8,7 @@ summary: The Laboratory for Molecular Medicine (LMM) is a CLIA-certified molecul
 
 # Optional label of and website address to a website (Two availble at the moment)
 link_website_1_label: Website
-link_website_1_to:https://personalizedmedicine.partners.org/laboratory-for-molecular-medicine/
+link_website_1_to: https://personalizedmedicine.partners.org/laboratory-for-molecular-medicine/
 link_website_2_label: Website
 link_website_2_to:
 

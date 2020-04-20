@@ -8,7 +8,7 @@ summary:Invitae is a CLIA-certified fee-for-service clinical testing laboratory.
 
 # Optional label of and website address to a website (Two availble at the moment)
 link_website_1_label: Website
-link_website_1_to:https://www.invitae.com/en/
+link_website_1_to: https://www.invitae.com/en/
 link_website_2_label: Website
 link_website_2_to:
 

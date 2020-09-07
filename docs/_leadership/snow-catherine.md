@@ -2,13 +2,13 @@
 # What layout to use (though not currently used)
 layout: leadership
 # Name of the person
-title: Ellen McDonagh
+title: Catherine Snow
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
 organization: Genomics England PanelApp
 # The sort order. Recommended by last name but can be change as needed
-sort: McDonagh
+sort: Snow
 # Show this entry as a page
 show_status: true
 

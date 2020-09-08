@@ -18,28 +18,28 @@ The following document outlines how GenCC partners can share their submissions w
 
 ## Submitter IDs
 The following are the Submitter IDs the current GenCC member organizations.  When sharing submissions, please ensure that the submitter_id column contains your identifier (GENCC:XXXXXX).
-- GENCC:000101 Ambry Genetics
-- GENCC:000102 ClinGen
-- GENCC:000103 DECIPHER
-- GENCC:000104 Genomics England PanelApp
-- GENCC:000105 Illumina
-- GENCC:000106 Invitae
-- GENCC:000107 Laboratory for Molecular Medicine
-- GENCC:000108 Myriad Women's Health
-- GENCC:000109 Online Mendelian Inheritance in Man (OMIM)
-- GENCC:000110 Orphanet
-- GENCC:000111 PanelApp Australia
-- GENCC:000112 TGMI
-- GENCC:000113 G2P
+- GENCC:000101 -- Ambry Genetics
+- GENCC:000102 -- ClinGen
+- GENCC:000103 -- DECIPHER
+- GENCC:000104 -- Genomics England PanelApp
+- GENCC:000105 -- Illumina
+- GENCC:000106 -- Invitae
+- GENCC:000107 -- Laboratory for Molecular Medicine
+- GENCC:000108 -- Myriad Women's Health
+- GENCC:000109 -- Online Mendelian Inheritance in Man (OMIM)
+- GENCC:000110 -- Orphanet
+- GENCC:000111 -- PanelApp Australia
+- GENCC:000112 -- TGMI
+- GENCC:000113 -- G2P
 
 ## Classification IDs
 The following are the classification identifiers that the GenCC recognizes. When sharing submissions, please ensure that the classification_id column contains one of the following identifiers (GENCC:XXXXXX).
-- GENCC:100001 Definitive
-- GENCC:100002 Strong
-- GENCC:100003 Moderate
-- GENCC:100004 Limited
-- GENCC:100005 Disputed Evidence
-- GENCC:100006 Refuted Evidence
-- GENCC:100007 Animal Model Only
-- GENCC:100008 No Known Disease Relationship
-- GENCC:100009 Supportive
+- GENCC:100001 -- Definitive
+- GENCC:100002 -- Strong
+- GENCC:100003 -- Moderate
+- GENCC:100004 -- Limited
+- GENCC:100005 -- Disputed Evidence
+- GENCC:100006 -- Refuted Evidence
+- GENCC:100007 -- Animal Model Only
+- GENCC:100008 -- No Known Disease Relationship
+- GENCC:100009 -- Supportive

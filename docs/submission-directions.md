@@ -14,10 +14,10 @@ The following document outlines how GenCC partners can share their submissions w
 ---
 
 ## Submission Worksheet
-[Click here to download the currnet version of the GenCC Submission Worksheet - Version 1](/docs/gencc-submission-sheet-v1.xlsx)
+[Click here to download the current version of the GenCC Submission Worksheet - Version 1](/docs/gencc-submission-sheet-v1.xlsx)
 
 ## Submitter IDs
-The following are the Submitter IDs the current GenCC member organiations.  When sharing submissions, please ensure that the submitter_id column contains your identifier (GENCC:XXXXXX).
+The following are the Submitter IDs the current GenCC member organizations.  When sharing submissions, please ensure that the submitter_id column contains your identifier (GENCC:XXXXXX).
 - GENCC:000101 Ambry Genetics
 - GENCC:000102 ClinGen
 - GENCC:000103 DECIPHER

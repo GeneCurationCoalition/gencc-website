@@ -32,7 +32,7 @@ The following are the Submitter IDs the current GenCC member organiations.  When
 - GENCC:000112 TGMI andG2P
 
 ## Classification IDs
-The following are the classification identifiers that the GenCC recognizes.
+The following are the classification identifiers that the GenCC recognizes. When sharing submissions, please ensure that the classification_id column contains one of the following identifiers (GENCC:XXXXXX).
 - GENCC:100001 Definitive
 - GENCC:100002 Strong
 - GENCC:100003 Moderate

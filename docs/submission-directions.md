@@ -11,6 +11,8 @@ title: Submission Directions
 
 The following document outlines how GenCC partners can share their submissions with the GenCC.
 
+---
+
 ## Submission Worksheet
 [Click here to download the currnet version of the GenCC Submission Worksheet - Version 1](/docs/gencc-submission-sheet-v1.xlsx)
 
@@ -27,7 +29,7 @@ The following are the Submitter IDs the current GenCC member organiations.  When
 - GENCC:000109 Online Mendelian Inheritance in Man (OMIM)
 - GENCC:000110 Orphanet
 - GENCC:000111 PanelApp Australia
-- GENCC:000112 TGMI|G2P
+- GENCC:000112 TGMI andG2P
 
 ## Classification IDs
 The following are the classification identifiers that the GenCC recognizes.

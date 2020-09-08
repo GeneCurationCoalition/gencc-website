@@ -15,6 +15,7 @@ The following document outlines how GenCC partners can share their submissions w
 
 ## Submission Worksheet
 [Click here to download the current version of the GenCC Submission Worksheet - Version 1](/docs/gencc-submission-sheet-v1.xlsx)
+Directions are provided in the Excel Worksheet and information will be provided at a later date to submitters on how to share the submission worksheet.
 
 ## Submitter IDs
 The following are the Submitter IDs the current GenCC member organizations.  When sharing submissions, please ensure that the submitter_id column contains your identifier (GENCC:XXXXXX).

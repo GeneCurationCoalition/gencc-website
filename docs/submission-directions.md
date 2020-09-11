@@ -44,3 +44,13 @@ The following are the classification identifiers that the GenCC recognizes. When
 - GENCC:100007 -- Animal Model Only
 - GENCC:100008 -- No Known Disease Relationship
 - GENCC:100009 -- Supportive
+
+## Mode of Inheritance IDs
+The GenCC website required MOI to be provided as HPO terms.  The following are suggested common MOI identifiers. When sharing submissions, please ensure that the classification_id column contains one of the following identifiers (HP:XXXXXX).
+HP:0000006	Autosomal dominant inheritance
+HP:0000007	Autosomal recessive inheritance
+HP:0001417	X-linked inheritance
+HP:0001427	Mitochondrial Inheritance
+HP:0032113	Semi-dominant mode of inheritance
+HP:0000005	(Literally mode of inheritance but we map to) Unknown inheritance
+HP:0001450	Y-linked inheritance

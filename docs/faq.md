@@ -2,7 +2,7 @@
 # Which layout to use
 layout: default
 # The page title
-title: Terms
+title: GenCC FAQ
 
 ## Below the --- you write the page text. Remember, this is Markdown -> https://www.markdownguide.org/cheat-sheet
 ---
@@ -52,7 +52,7 @@ To test the process, some GenCC submitters have so far submitted only a small su
 
 # Screenshot of pages with explanation:
 
-![Gencc](/docs/gencc-faq-1.jpeg)
+![Gencc](/docs/gencc-faq-1.jpeg){: .img-fluid}
 
 This is the landing page. All curated genes are listed. Numbers on the image correspond to descriptions below. All entries are collapsed but can be opened to see details. The detailed screenshot is found below:
 

@@ -162,6 +162,7 @@ Above is a screenshot of a gene page where entries are displayed by submitter. N
 2) The standardized clinical validity term is displayed with its corresponding color with the highest classifications listed first (e.g. Strong, then Moderate, then Limited)
 
 3) All entries are mapped to Monarch Disease Ontology (MONDO) and the MONDO ID is displayed. If a submitter used a different ontology for submission (such as the PanelApp Australia classification), the original term or ID is displayed with “Submitted as:” (the OMIM ID boxed in red in the image)
+
 4) The mode of inheritance.
 
 5) The top date is the date the curation was evaluated. The bottom date listed in gray is the date that the curation was submitted to the GenCC.

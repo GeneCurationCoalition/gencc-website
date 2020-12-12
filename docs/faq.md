@@ -7,6 +7,12 @@ title: GenCC FAQ
 ## Below the --- you write the page text. Remember, this is Markdown -> https://www.markdownguide.org/cheat-sheet
 ---
 
+- [FAQ](#FAQ)
+- [Website Pages FAQ](#Website-Pages-FAQ)
+- [Validity terms/Delphi Survey](#Validity-terms-Delphi-Survey)
+
+---
+
 # FAQ
 
 ## What is the GenCC and why is it needed?
@@ -48,9 +54,10 @@ Our future plans include making an API available for GenCC data consumers, but t
 To test the process, some GenCC submitters have so far submitted only a small subset of their curation data. This data set will continue to expand over the coming months
 
 ---
+
 ---
 
-# Screenshot of pages with explanation:
+# Website Pages FAQ:
 
 ![Gencc](/docs/gencc-faq-1.jpeg){: .img-fluid}
 
@@ -64,7 +71,7 @@ This is the landing page. All curated genes are listed. Numbers on the image cor
 6) Clicking on the details button will bring you to the gene-specific classification page.
 
 ---
-![Gencc](/docs/gencc-faq-2.jpeg)
+![Gencc](/docs/gencc-faq-2.jpeg){: .img-fluid}
 
 
 The screenshot below is an expanded entry on the landing page (note: this is a fictitious example created to illustrate many features on one gene). Users can expand the entry by clicking on the arrow buttons next to “Disease equivalents” or “Submitters” (denoted by red arrows in the screenshot). 
@@ -80,7 +87,7 @@ When a user clicks the details button next to a gene entry, a gene page will ope
 
 
 ---
-![Gencc](/docs/gencc-faq-3.jpeg)
+![Gencc](/docs/gencc-faq-3.jpeg){: .img-fluid}
 
 
 Above is a screenshot of a gene page where entries are displayed by classification. Numbers on the image correspond to descriptions below:
@@ -99,7 +106,7 @@ More details: a link that will bring you to a specific page with more informatio
 
 
 ---
-![Gencc](/docs/gencc-faq-4.jpeg)
+![Gencc](/docs/gencc-faq-4.jpeg){: .img-fluid}
 
 
 Above is a screenshot of a gene page where entries are displayed by disease. Numbers on the image correspond to descriptions below:
@@ -118,8 +125,7 @@ More details: A link that will bring you to a specific page with more informatio
 
 
 ---
-![Gencc](/docs/gencc-faq-5.jpeg)
-
+![Gencc](/docs/gencc-faq-5.jpeg){: .img-fluid}
 
 Above is a screenshot of a gene page where entries are displayed by submitter. Numbers on the image correspond to descriptions below:
 
@@ -134,15 +140,15 @@ Assertion criteria: further information on the curation framework used for this 
 More details: A link that will bring you to a specific page with more information about this group’s curation 
 7) The return to list button will take you back to the home page with the list of all curations.
 
-
 ---
+
 ---
 
 # Validity terms/Delphi Survey
 To enable comparison of gene-disease validity curations across resources, we drafted harmonized definitions for differing levels of gene-disease clinical validity and then a Delphi survey approach was performed. In the first round, members of the GenCC took the survey and chose from term sets already in use by current efforts or suggested new terms. In the second round, all previous and suggested terms were incorporated, and the survey was sent out to the extended staff and members of each of the GenCC groups. In the third round, the survey was then sent to the larger international genetics community (e.g. American College of Medical Genetics Membership, American Society of Human Genetics Membership, the Global Alliance for Genomic Health Membership) with a 10 minute introductory video for context. Responses from the community were used to further narrow the term list, and the final harmonized term set with definitions are provided below. This set is used to map all other terms used by each curation effort participating in the GenCC and displayed on this curation site. Mapping exceptions include situations where a resource did not curate to the same level of granularity as the harmonized list and therefore a broader category of “Supportive” was used to represent a basic level of evidence for gene-disease association such as that used by OMIM and Orphanet.  
 
 
-![Gencc definitions](/docs/delphi.png)
+![Gencc definitions](/docs/delphi.png){: .img-fluid}
 Preferred terms set and definitions*:
 
 *This framework is intended to address highly penetrant monogenic forms of disease

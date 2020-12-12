@@ -8,9 +8,9 @@ title: GenCC FAQ
 ---
 
 ## GenCC FAQ Sections
-- [FAQ](#FAQ)
-- [Website Pages FAQ](#Website-Pages-FAQ)
-- [Validity terms/Delphi Survey](#Validity-terms-Delphi-Survey)
+- [FAQ](#faq)
+- [Website Pages FAQ](#website-pages-faq)
+- [Validity terms/Delphi Survey](#validity-terms-delphi-survey)
 
 ---
 

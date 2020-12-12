@@ -8,12 +8,12 @@ title: GenCC FAQ
 ---
 
 ## GenCC FAQ Sections
-- [FAQ](#faq)
+- [Common Questions](#common-questions)
 - [Website Pages FAQ](#website-pages-faq)
-- [Validity terms/Delphi Survey](#validity-terms-delphi-survey)
+- [Validity terms/Delphi Survey](#validity-termsdelphi-survey)
 
 ---
-
+# &nbsp;
 # Common Questions
 
 ## What is the GenCC and why is it needed?
@@ -55,9 +55,7 @@ Our future plans include making an API available for GenCC data consumers, but t
 To test the process, some GenCC submitters have so far submitted only a small subset of their curation data. This data set will continue to expand over the coming months
 
 ---
-
----
-
+# &nbsp;
 # Website Pages FAQ:
 
 ![Gencc](/docs/gencc-faq-1.jpeg){: .img-fluid}
@@ -164,9 +162,7 @@ Above is a screenshot of a gene page where entries are displayed by submitter. N
 7) The return to list button will take you back to the home page with the list of all curations.
 
 ---
-
----
-
+# &nbsp;
 # Validity terms/Delphi Survey
 To enable comparison of gene-disease validity curations across resources, we drafted harmonized definitions for differing levels of gene-disease clinical validity and then a Delphi survey approach was performed. In the first round, members of the GenCC took the survey and chose from term sets already in use by current efforts or suggested new terms. In the second round, all previous and suggested terms were incorporated, and the survey was sent out to the extended staff and members of each of the GenCC groups. In the third round, the survey was then sent to the larger international genetics community (e.g. American College of Medical Genetics Membership, American Society of Human Genetics Membership, the Global Alliance for Genomic Health Membership) with a 10 minute introductory video for context. Responses from the community were used to further narrow the term list, and the final harmonized term set with definitions are provided below. This set is used to map all other terms used by each curation effort participating in the GenCC and displayed on this curation site. Mapping exceptions include situations where a resource did not curate to the same level of granularity as the harmonized list and therefore a broader category of “Supportive” was used to represent a basic level of evidence for gene-disease association such as that used by OMIM and Orphanet.  
 

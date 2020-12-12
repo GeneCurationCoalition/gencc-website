@@ -62,24 +62,28 @@ To test the process, some GenCC submitters have so far submitted only a small su
 
 ![Gencc](/docs/gencc-faq-1.jpeg){: .img-fluid}
 
+#### Landing Page
 This is the landing page. All curated genes are listed. Numbers on the image correspond to descriptions below. All entries are collapsed but can be opened to see details. The detailed screenshot is found below:
 
 1) This is the current approved HGNC gene symbol and its ID. Clicking the arrow next to it links you to the HGNC page for that gene. You can search and filter by HGNC gene symbol in the search box above the gene name.
+
 2) GenCC maps all submitted disease terms (accepted ontologies are OMIM, Orpha, and MONDO) to the Monarch Disease Ontology (MONDO). Disease equivalents are the number of unique MONDO terms for which gene-disease associations are reported for the gene. Users can search by the submitted term in the search box above the disease equivalents.
+
 3) This is the total number of unique submitters with classifications for the gene. Each submitter may have more than one classification. Users can filter by submitter at the top of the page.
+
 4) All submissions are mapped to standardized clinical validity terms. The check boxes below the terms can be checked or unchecked to filter the data.
+
 5) Each color corresponds to the standardized terms at the top of the page. The numbers represent the total submission with each evidence level.
+
 6) Clicking on the details button will bring you to the gene-specific classification page.
 
 ---
 ![Gencc](/docs/gencc-faq-2.jpeg){: .img-fluid}
 
-
+#### Landing Page Gene Features
 The screenshot below is an expanded entry on the landing page (note: this is a fictitious example created to illustrate many features on one gene). Users can expand the entry by clicking on the arrow buttons next to “Disease equivalents” or “Submitters” (denoted by red arrows in the screenshot). 
 
 Each expanded entry is organized by submitter. Each line represents all submissions by a particular submitter with a certain evidence level. For example, boxed in red in this screenshot, ClinGen has two disputed evidence submissions (one for hereditary breast carcinoma and one for Noonan syndrome). When a submitter has too many submissions to fit on one line they will continue on to the next line, like ClinGen’s no known disease relationship submissions circled in red below. 
-
-
 
 When a user clicks the details button next to a gene entry, a gene page will open. Below are descriptive screenshots of the three tabs on the gene page: entries separated by classification, disease, and submitter.
 
@@ -90,18 +94,24 @@ When a user clicks the details button next to a gene entry, a gene page will ope
 ---
 ![Gencc](/docs/gencc-faq-3.jpeg){: .img-fluid}
 
-
+#### Gene Page By Classification
 Above is a screenshot of a gene page where entries are displayed by classification. Numbers on the image correspond to descriptions below:
 
 1) From these drop downs, users can filter the displayed list by Classification (e.g. only display Strong entries), Disease, Mode of Inheritance (MOI), or Submitter
+
 2) The standardized clinical validity term is displayed with its corresponding color with the highest classifications listed first (e.g. Strong, then Moderate, then Limited)
+
 3) All entries are mapped to Monarch Disease Ontology (MONDO) and the MONDO ID is displayed. If a submitter used a different ontology for submission (such as the PanelApp Australia classification), the original term or ID is displayed with “Submitted as:” (the OMIM ID boxed in red in the image)
+
 4) The mode of inheritance.
+
 5) The top date is the date the curation was evaluated. The bottom date listed in gray is the date that the curation was submitted to the GenCC.
+
 6) This is the curation details section for each entry. The submitter is listed, along with an evidence summary, and all link outs (if available): 
-Public report: public location of further curation information for this submission (website entry or publication)
-Assertion criteria: further information on the curation framework used for this entry
-More details: a link that will bring you to a specific page with more information about this group’s curation 
+- Public report: public location of further curation information for this submission (website entry or publication)
+- Assertion criteria: further information on the curation framework used for this entry
+- More details: a link that will bring you to a specific page with more information about this group’s curation 
+
 7) The return to list button will take you back to the home page with the list of all curations.
 
 
@@ -109,18 +119,24 @@ More details: a link that will bring you to a specific page with more informatio
 ---
 ![Gencc](/docs/gencc-faq-4.jpeg){: .img-fluid}
 
-
+#### Gene Page By Disease
 Above is a screenshot of a gene page where entries are displayed by disease. Numbers on the image correspond to descriptions below:
 
 1) From these drop downs, users can filter the displayed list by Classification (e.g. only display Strong entries), Disease, Mode of Inheritance (MOI), or Submitter
+
 2) The standardized clinical validity term is displayed with its corresponding color with the highest classifications listed first (e.g. Strong, then Moderate, then Limited)
+
 3) All entries are mapped to Monarch Disease Ontology (MONDO) and the MONDO ID is displayed. If a submitter used a different ontology for submission (such as the PanelApp Australia classification), the original term or ID is displayed with “Submitted as:” (the OMIM ID boxed in red in the image)
+
 4) The mode of inheritance.
+
 5) The top date is the date the curation was evaluated. The bottom date listed in gray is the date that the curation was submitted to the GenCC.
+
 6) This is the curation details section for each entry. The submitter is listed, along with an evidence summary, and all link outs (if available): 
-Public report: public location of further curation information for this submission (website entry or publication)
-Assertion criteria: further information on the curation framework used for this entry
-More details: A link that will bring you to a specific page with more information about this group’s curation 
+- Public report: public location of further curation information for this submission (website entry or publication)
+- Assertion criteria: further information on the curation framework used for this entry
+- More details: A link that will bring you to a specific page with more information about this group’s curation 
+
 7) The return to list button will take you back to the home page with the list of all curations.
 
 
@@ -128,17 +144,23 @@ More details: A link that will bring you to a specific page with more informatio
 ---
 ![Gencc](/docs/gencc-faq-5.jpeg){: .img-fluid}
 
+#### Gene Page By Submitter
 Above is a screenshot of a gene page where entries are displayed by submitter. Numbers on the image correspond to descriptions below:
 
 1) From these drop downs, users can filter the displayed list by Classification (e.g. only display Strong entries), Disease, Mode of Inheritance (MOI), or Submitter
+
 2) The standardized clinical validity term is displayed with its corresponding color with the highest classifications listed first (e.g. Strong, then Moderate, then Limited)
+
 3) All entries are mapped to Monarch Disease Ontology (MONDO) and the MONDO ID is displayed. If a submitter used a different ontology for submission (such as the PanelApp Australia classification), the original term or ID is displayed with “Submitted as:” (the OMIM ID boxed in red in the image)
 4) The mode of inheritance.
+
 5) The top date is the date the curation was evaluated. The bottom date listed in gray is the date that the curation was submitted to the GenCC.
+
 6) This is the curation details section for each entry. The submitter is listed, along with an evidence summary, and all link outs (if available): 
-Public report: public location of further curation information for this submission (website entry or publication)
-Assertion criteria: further information on the curation framework used for this entry
-More details: A link that will bring you to a specific page with more information about this group’s curation 
+- Public report: public location of further curation information for this submission (website entry or publication)
+- Assertion criteria: further information on the curation framework used for this entry
+- More details: A link that will bring you to a specific page with more information about this group’s curation 
+
 7) The return to list button will take you back to the home page with the list of all curations.
 
 ---

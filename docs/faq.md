@@ -50,7 +50,7 @@ You cannot currently follow your favorite gene, but this feature will be availab
 
 ## &nbsp;
 ## Can I download the data from this site?
-Yes, there are download buttons available on multiple screens throughout the website. However, due to licensing restrictions, a GenCC download only includes a partial data set. Curations from OMIM are not included in this set.
+Yes, there are download buttons available on multiple screens throughout the website. However, due to licensing restrictions, a GenCC download does not include OMIM data. OMIM data can be accessed and downloaded through https://www.omim.org/
 
 ## &nbsp;
 ## Can I search using previous HGNC names or symbols?

@@ -8,7 +8,7 @@ title: Terms
 ---
 
 # GenCC Terms of Use
-Curated content distributed on the GenCC website is released openly for the benefit of the wider community. You can freely capture the data and we encourage the use and publication of results generated from these data. All curated content published by GenCC is available free of restriction under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. However, GenCC requests that you give attribution to GenCC or its member groups whenever possible and appropriate. Specific content from each of the GenCC member groups is subject to the terms of use of each group. Please refer to each particular website for more information.
+The GenCC database is currently released under a Fort Lauderdale Agreement for the benefit of the wider biomedical community. You can freely download and search the data, and we encourage the use and publications of validity data for specific targeted sets of genes. However, we ask that you not publish global (site-wide) analyses of these data, or of large gene sets, until after the GenCC flagship paper has been published (estimated to be spring 2021). After the flagship publication, data will be available free of restriction under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The GenCC requests that you give attribution to GenCC and the contributing sources whenever possible and appropriate.
 
 ## Example Attribution Statements
 The following curated content was obtained from the Gene Curation Coalition (www.thegencc.org) which includes contributions from the following organizations: Australian Genomics, ClinGen, ….. Gene-Disease Validity classifications [date accessed].

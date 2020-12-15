@@ -58,7 +58,7 @@ You cannot currently search using old gene names, but this feature will be avail
 
 ## &nbsp;
 ## Can I connect to this data set via an API?
-Our future plans include making an API available for GenCC data consumers, but this is not yet available. Please sign up for announcements from GenCC here (link to sign up page)
+Our future plans include making an API available for GenCC data consumers, but this is not yet available. Please sign up for announcements from GenCC to be notified of its release.
 
 ## &nbsp;
 ## Some submitters with large public resources have very small data sets. Why is this?

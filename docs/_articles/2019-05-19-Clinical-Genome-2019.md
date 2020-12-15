@@ -10,9 +10,9 @@ summary: Marina DiStefano, on behalf of the GenCC, presented on the results of t
 
 # Optional label of and website address to a website (Two availble at the moment)
 link_website_1_label: Read the abstract here.
-link_website_1_to:https://clinicalgenome.org/site/assets/files/3349/ccg19_platformabstracts.pdf
+link_website_1_to: https://clinicalgenome.org/site/assets/files/3349/ccg19_platformabstracts.pdf
 link_website_2_label: The slides for the presentation can be found here.
-link_website_2_to:https://clinicalgenome.org/site/assets/files/3349/distefano_gencc_ccg_2019.pdf
+link_website_2_to: https://clinicalgenome.org/site/assets/files/3349/distefano_gencc_ccg_2019.pdf
 
 # Optional label of and logo (file should be added to assets) (Two availble at the moment).
 link_file_1_label: View document

@@ -23,7 +23,7 @@ The Gene Curation Coalition brings together groups engaged in the evaluation of 
 
 ## &nbsp;
 ## What are the goals of the GenCC?
-The GenCC is working to harmonize approaches to ensure gene-level resources are comparable and interoperable. This allows groups to work together most effectively and to provide consistent and useful resources for the community.The goals of the GenCC are as follows:
+The GenCC is working to harmonize approaches to ensure gene-level resources are comparable and interoperable. This allows groups to work together most effectively and to provide consistent and useful resources for the community. The goals of the GenCC are as follows:
 - Understand the aims, processes, information used, classification systems, and users of the different gene curation efforts
 - Develop consistent terminology for validity assessment as well as inheritance, allelic requirement, and mechanism of disease
 - Develop the GenCC Database, a shared resource to bring together gene-level resources

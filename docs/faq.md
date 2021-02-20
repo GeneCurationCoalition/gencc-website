@@ -51,11 +51,15 @@ Yes, there are download buttons available on multiple screens throughout the web
 
 ## &nbsp;
 ## Can I search using previous HGNC names or symbols?
-You cannot currently search using old gene names, but this feature will be available soon. Please consult HGNC (www.genenames.org) to confirm that you are using the most current gene symbol for searches.
+You cannot currently search using old gene symbols, but this feature will be available soon. Please consult HGNC (www.genenames.org) to confirm that you are using the most current gene symbol for searches.
 
 ## &nbsp;
-## Can I connect to this data set via an API?
-Our future plans include making an API available for GenCC data consumers, but this is not yet available. Please sign up for announcements from GenCC to be notified of its release.
+## Can I search using previous HGNC names or symbols?
+You cannot currently search using old gene symbols, but this feature will be available soon. Please consult HGNC (www.genenames.org) to confirm that you are using the most current gene symbol for searches.
+
+## &nbsp;
+## Are HGNC gene symbols and names stable?
+HGNC are committed to making as few changes to gene symbols as possible (https://blog.genenames.org/Stable_Symbols), but some updates may still be necessary. See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494048/ for situations that merit a symbol update. To keep symbols stable, sometimes changes will be made to the gene name only. 
 
 ## &nbsp;
 ## Some submitters with large public resources have very small data sets. Why is this?

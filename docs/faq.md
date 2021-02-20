@@ -54,10 +54,6 @@ Yes, there are download buttons available on multiple screens throughout the web
 You cannot currently search using old gene symbols, but this feature will be available soon. Please consult HGNC (www.genenames.org) to confirm that you are using the most current gene symbol for searches.
 
 ## &nbsp;
-## Can I search using previous HGNC names or symbols?
-You cannot currently search using old gene symbols, but this feature will be available soon. Please consult HGNC (www.genenames.org) to confirm that you are using the most current gene symbol for searches.
-
-## &nbsp;
 ## Are HGNC gene symbols and names stable?
 HGNC are committed to making as few changes to gene symbols as possible (https://blog.genenames.org/Stable_Symbols), but some updates may still be necessary. See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494048/ for situations that merit a symbol update. To keep symbols stable, sometimes changes will be made to the gene name only. 
 

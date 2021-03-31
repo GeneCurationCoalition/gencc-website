@@ -30,8 +30,8 @@ The following are the Submitter IDs the current GenCC member organizations.  Whe
 - GENCC:000109 -- Online Mendelian Inheritance in Man (OMIM)
 - GENCC:000110 -- Orphanet
 - GENCC:000111 -- PanelApp Australia
-- GENCC:000112 -- TGMI
-- GENCC:000113 -- G2P
+- GENCC:000112 -- TGMI|G2P
+- GENCC:000113 -- Franklin by Genoox
 
 ## Classification IDs
 The following are the classification identifiers that the GenCC recognizes. When sharing submissions, please ensure that the classification_id column contains one of the following identifiers (GENCC:XXXXXX).

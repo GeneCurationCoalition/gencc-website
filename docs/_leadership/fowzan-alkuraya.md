@@ -8,7 +8,7 @@ position:
 # Name of organization affiliated with
 organization: King Faisal Specialist Hospital and Research Center
 # The sort order. Recommended by last name but can be change as needed
-sort: Alkuraya
+sort: Al
 # Show this entry as a page
 show_status: true
 

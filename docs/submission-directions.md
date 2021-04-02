@@ -32,6 +32,7 @@ The following are the Submitter IDs the current GenCC member organizations.  Whe
 - GENCC:000111 -- PanelApp Australia
 - GENCC:000112 -- TGMI | G2P
 - GENCC:000113 -- Franklin by Genoox
+- GENCC:000114 -- King Faisal Specialist Hospital and Research Center
 
 ## Classification IDs
 The following are the classification identifiers that the GenCC recognizes. When sharing submissions, please ensure that the classification_id column contains one of the following identifiers (GENCC:XXXXXX).

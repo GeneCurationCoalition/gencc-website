@@ -6,7 +6,7 @@ title: Heather Collins
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
-organization: Genetics Home Reference
+organization: Medline Plus Genetics, National Library of Medicine
 # The sort order. Recommended by last name but can be change as needed
 sort: Collins
 # Show this entry as a page

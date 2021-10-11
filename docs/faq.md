@@ -183,7 +183,7 @@ Preferred terms set and definitions*:
 *This framework is intended to address highly penetrant monogenic forms of disease
 
 ### Definitive
-The role of this gene in this particular disease has been repeatedly demonstrated in both the research and clinical diagnostic settings, and has been upheld over time (at least 2 independent publications over 3 years’ time). No convincing evidence has emerged that contradicts the role of the gene in the specified disease.
+The role of this gene in this particular disease has been repeatedly demonstrated in both the research and clinical diagnostic settings, and has been upheld over time (at least 2 independent publications over 3 years’ time). No convincing evidence has emerged that contradicts the role of the gene in the specified disease. (Please note that not all submitters distinguish between strong and definitive. Thus, a strong submission may be the highest validity from a particular submitter. Please contact individual submitters if you have questions about this.)
 
 ## &nbsp;
 ### Strong

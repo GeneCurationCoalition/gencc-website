@@ -2,13 +2,13 @@
 # What layout to use (though not currently used)
 layout: leadership
 # Name of the person
-title: Annie Olry
+title: Ana Rath
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
 organization: Orphanet
 # The sort order. Recommended by last name but can be change as needed
-sort: Olry
+sort: Rath
 # Show this entry as a page
 show_status: true
 

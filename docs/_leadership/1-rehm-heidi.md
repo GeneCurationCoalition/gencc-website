@@ -4,7 +4,7 @@ layout: leadership
 # Name of the person
 title: Heidi Rehm
 # Optional GennCC Position/Title
-position: GenCC Chair
+position: GenCC Co-Chair
 # Name of organization affiliated with
 organization: ClinGen
 # The sort order. Recommended by last name but can be change as needed

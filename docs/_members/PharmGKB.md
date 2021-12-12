@@ -12,8 +12,8 @@ link_website_2_label: Website
 link_website_2_to:
 
 # Optional label of and logo (file should be added to assets) (Two availble at the moment).
-logo_1_label: 
-logo_1_file: 
+logo_1_label: PharmGKB logo
+logo_1_file: PharmGKB logo.png
 logo_2_label:
 logo_2_file:
 

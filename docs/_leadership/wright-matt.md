@@ -8,7 +8,7 @@ position:
 # Name of organization affiliated with
 organization: PharmGKB
 # The sort order. Recommended by last name but can be change as needed
-sort:Wright
+sort: Wright
 # Show this entry as a page
 show_status: true
 

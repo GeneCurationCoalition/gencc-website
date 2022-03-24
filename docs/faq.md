@@ -55,7 +55,7 @@ The GenCC does not currently accept individual submissions but new groups can jo
 
 ## &nbsp;
 ## Can my group join the GenCC?
-The GenCC consists of groups that provide widely used public gene curation resources for the genetics community or those whose curations adhere to ClinGen standards (Strande et al 2017). Curations with supportive evidence must be made publicly available on this website. If you feel that your group meets this curation standard, please contact us to inquire about joining the GenCC.
+Groups seeking to join the GenCC must 1) have content that the GenCC SC considers useful to the mission of GenCC; 2) be willing to share their curations publicly on the website; 3) adhere to ClinGen gene curation standards (Strande et al 2017), an equally rigorous framework, or provide a widely used existing public gene-level resource (e.g. OMIM, Orphanet); and 4) be able to use our standardized clinical validity terms and disease ontologies for their submissions. If you feel that your group meets this curation standard, please contact us to inquire about joining the GenCC.
 
 ## &nbsp;
 ## Can I follow my favorite gene?

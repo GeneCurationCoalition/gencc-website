@@ -35,7 +35,7 @@ Gene-disease validity curation answers the question “Is a gene associated with
 
 ## &nbsp;
 ## How do I cite/acknowledge the GenCC for database use?
-The GenCC database is currently released under a Fort Lauderdale Agreement for the benefit of the wider biomedical community. You can freely download and search the data, and we encourage the use and publications of validity data for specific targeted sets of genes. However, we ask that you not publish global (site-wide) analyses of these data, or of large gene sets, until after the GenCC flagship paper has been published (estimated to be Spring 2022). The preprint of this manuscript is now available on medRxiv (https://www.medrxiv.org/content/10.1101/2022.01.03.21268593v1). After the flagship publication, data will be available free of restriction under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The GenCC requests that you give attribution to GenCC and the contributing sources whenever possible and appropriate.
+The GenCC data are available free of restriction under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The GenCC requests that you give attribution to GenCC and the contributing sources whenever possible and appropriate. The preprint of this manuscript is now available on medRxiv (https://www.medrxiv.org/content/10.1101/2022.01.03.21268593v1) and the accepted flagship manuscript will be online soon (estimated May 2022).
 
 Example Attribution Statements:
 

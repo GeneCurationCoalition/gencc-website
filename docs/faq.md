@@ -35,7 +35,7 @@ Gene-disease validity curation answers the question “Is a gene associated with
 
 ## &nbsp;
 ## How do I cite/acknowledge the GenCC for database use?
-The GenCC data are available free of restriction under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The GenCC requests that you give attribution to GenCC and the contributing sources whenever possible and appropriate. The preprint of this manuscript is now available on medRxiv (https://www.medrxiv.org/content/10.1101/2022.01.03.21268593v1) and the accepted flagship manuscript will be online soon (estimated May 2022).
+The GenCC data are available free of restriction under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The GenCC requests that you give attribution to GenCC and the contributing sources whenever possible and appropriate. The accepted Flagship manuscript is now available from Genetics in Medicine (https://www.gimjournal.org/article/S1098-3600(22)00746-8/fulltext).
 
 Example Attribution Statements:
 

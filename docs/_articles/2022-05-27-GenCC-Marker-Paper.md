@@ -4,7 +4,7 @@ layout: article
 # Name of article
 name: The GenCC Marker Paper is now published in Genetics in Medicine with a companion podcast
 #Date of article (also used for sorting)
-date: May 27, 2022
+date: May 05, 2022
 # Short summary of the article
 summary: The GenCC marker paper that describes the formation of the GenCC, the Delphi survey used to harmonize clinical validity terms, and the creation of the GenCC database is now published and available from Genetics in Medicine. Heidi Rehm and Marina DiStefano participated in a companion podcast for GenePod, GIM's podcast, to discuss the release of this paper.
 

@@ -2,13 +2,13 @@
 # What layout to use (though not currently used)
 layout: leadership
 # Name of the person
-title: Jackie Tahiliani
+title: Audrey O'Neill
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
 organization: Invitae
 # The sort order. Recommended by last name but can be change as needed
-sort: Tahiliani
+sort: O'Neill
 # Show this entry as a page
 show_status: true
 

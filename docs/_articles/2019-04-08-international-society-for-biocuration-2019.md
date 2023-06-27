@@ -4,9 +4,9 @@ layout: article
 # Name of article
 name: The GenCC hosts a workshop at the International Society for Biocuration 2019 Conference
 # Date of article
-date: March 14, 2020
-# order (write as YYYYMMDD)
-order: 20200314
+date: April 8, 2019
+# order (write as YYYYMMDD for sorting)
+order: 20190408
 # Short summary of the article
 summary: GenCC members Ellen McDonagh (Genomics England), Rebecca Foulger (Genomics England), Marina DiStefano (ClinGen), and Antoine Marmignon (Orphanet) hosted a workshop about curating gene disease validity at the International Biocuration Society Conference on April 8, 2019 in Cambridge UK.
 

@@ -18,7 +18,7 @@ collections:
   articles:
     output: true
     show_status: true
-    sort_by: date
+    sort_by: order
   leadership:
     output: true
     show_status: true

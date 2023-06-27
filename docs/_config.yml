@@ -18,6 +18,7 @@ collections:
   articles:
     output: true
     show_status: true
+    sort_by: date
   leadership:
     output: true
     show_status: true

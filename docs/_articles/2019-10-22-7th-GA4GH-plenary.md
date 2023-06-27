@@ -3,8 +3,10 @@
 layout: article
 # Name of article
 name: The GenCC hosts a workshop at the 7th GA4GH Plenary
-#Date of article (also used for sorting)
+# Date of article
 date: March 14, 2020
+# order (write as YYYYMMDD)
+order: 20200314
 # Short summary of the article
 summary: GenCC members Ellen McDonagh (Genomics England), Heidi Rehm (ClinGen), and Zornitza Stark (Australian Genomics) hosted a panel discussion about curation at the 7th Plenary for the Global Alliance For Genomic Health (GA4GH) on October 22, 2019 in Boston, Massachusetts, USA.
 

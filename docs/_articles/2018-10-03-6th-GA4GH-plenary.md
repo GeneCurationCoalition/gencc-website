@@ -3,8 +3,10 @@
 layout: article
 # Name of article
 name: The GenCC hosts a workshop at the 6th GA4GH Plenary
-#Date of article (also used for sorting)
-date: March 14, 2020
+# Date of article
+date: Oct 3, 2018
+# order (write as YYYYMMDD for sorting)
+order: 20181003
 # Short summary of the article
 summary: GenCC members Heidi Rehm (ClinGen) and Ellen McDonagh (Genomics England) hosted a workshop about curating gene disease validity at the 6th Plenary for the Global Alliance For Genomic Health (GA4GH) on October 3, 2018 in Basel, Switzerland.
 

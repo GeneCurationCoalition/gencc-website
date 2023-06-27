@@ -3,8 +3,10 @@
 layout: article
 # Name of article
 name: The GenCC Presents at Curating the Clinical Genome 2019
-#Date of article (also used for sorting)
+# Date of article
 date: March 14, 2020
+# order (write as YYYYMMDD)
+order: 20200314
 # Short summary of the article
 summary: Marina DiStefano, on behalf of the GenCC, presented on the results of the Delphi survey at the Curating the Clinical Genome Conference on May 31, 2019 in Washington DC.  
 

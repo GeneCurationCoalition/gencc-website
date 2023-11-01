@@ -6,7 +6,7 @@ title: James Ware
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
-organization: Gene2Phenotype (G2P) from TGMI
+organization: Gene2Phenotype (G2P)
 # The sort order. Recommended by last name but can be change as needed
 sort: Ware
 # Show this entry as a page

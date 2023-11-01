@@ -2,7 +2,7 @@
 # What layout to use (though not currently used)
 layout: leadership
 # Name of the person
-title: Fiona Cunningha
+title: Sarah Hunt
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with

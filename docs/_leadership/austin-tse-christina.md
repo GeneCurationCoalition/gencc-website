@@ -6,7 +6,7 @@ title: Christina Austin-Tse
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
-organization: Laboratory for Molecular Medicine (LMM)
+organization: Broad CMG and Laboratory for Molecular Medicine (LMM)
 # The sort order. Recommended by last name but can be change as needed
 sort: Austin-Tse
 # Show this entry as a page

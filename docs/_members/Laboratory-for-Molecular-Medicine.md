@@ -4,11 +4,11 @@ layout: member
 # Member Name
 title: Laboratory for Molecular Medicine
 # Optional summary info about the member
-summary: The Laboratory for Molecular Medicine (LMM) is a CLIA-certified molecular diagnostic laboratory, operated by Partners HealthCare Personalized Medicine. The LMM is led by a group of Harvard Medical School-affiliated faculty, geneticists, clinicians, and researchers from Brigham and Women’s Hospital and Massachusetts General Hospital, Partners' founding members. Our mission is to bridge the gap between research and clinical medicine.
+summary: The Laboratory for Molecular Medicine (LMM) is a CLIA-certified molecular diagnostic laboratory, operated by Mass General Brigham Personalized Medicine. The LMM is led by a group of Harvard Medical School-affiliated faculty, geneticists, clinicians, and researchers from Brigham and Women’s Hospital and Massachusetts General Hospital, Mass General Brigham's founding members. Our mission is to bridge the gap between research and clinical medicine.
 
 # Optional label of and website address to a website (Two availble at the moment)
 link_website_1_label: Website
-link_website_1_to: https://personalizedmedicine.partners.org/laboratory-for-molecular-medicine/
+link_website_1_to: https://www.massgeneralbrigham.org/en/research-and-innovation/centers-and-programs/personalized-medicine/molecular-medicine
 link_website_2_label: Website
 link_website_2_to:
 

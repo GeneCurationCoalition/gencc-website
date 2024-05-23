@@ -2,13 +2,13 @@
 # What layout to use (though not currently used)
 layout: leadership
 # Name of the person
-title: Audrey O'Neill
+title: Yunyun Jiang
 # Optional GennCC Position/Title
 position:
 # Name of organization affiliated with
 organization: Invitae
 # The sort order. Recommended by last name but can be change as needed
-sort: O'Neill
+sort: Jiang
 # Show this entry as a page
 show_status: true
 

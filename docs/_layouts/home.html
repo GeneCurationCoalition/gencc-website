@@ -23,7 +23,7 @@
                 <div class="row p-0 m-0">
                   <div class="mb-5 row">
                     <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
-                    <img src="{{ site.url }}assets/icon-result.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+                    <img src="{{ site.url }}/assets/icon-result.png" alt="Icon - {{ item.title }}" class="img-fluid" />
                     </div>
                   <div class="col-sm-10 mb-4">
                     <h2>The GenCC Database and Marker Paper are Now Available</h2>
@@ -48,12 +48,12 @@
                <div class="row mb-5 ">
                   <div class="col-lg-12">
                     <h2>{{ page.section2-heading }}</h2>
-                    <a title="List of GenCC Members" href="{{ site.url }}{{ site.url_members }}" class="btn btn-primary float-right pl-3">
+                    <a title="List of GenCC Members" href="{{ site.url }}/{{ site.url_members }}" class="btn btn-primary float-right pl-3">
                       <h2 class="p-0 m-0">{{ member_count_array.size }}</h2>
                       <small>Member Organizations</small>
                     </a>
                     {{ page.section2 }}
-                    <a href="{{ site.url }}{{ site.url_members }}" class="pt-1 text-white">View GenCC Members</a>
+                    <a href="{{ site.url }}/{{ site.url_members }}" class="pt-1 text-white">View GenCC Members</a>
                   </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                       <div class="mb-4 row">
                         <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
                           <a href="https://search.thegencc.org">
-                            <img src="{{ site.url }}assets/icon-project.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+                            <img src="{{ site.url }}/assets/icon-project.png" alt="Icon - {{ item.title }}" class="img-fluid" />
                           </a>
                         </div>
                         <div class="col-sm-10">
@@ -139,7 +139,7 @@
                       {% for item in site.articles | limit:4 %}
                       <div class="mb-5 row">
                         <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
-                          <img src="{{ site.url }}assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+                          <img src="{{ site.url }}/assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
                         </div>
                         <div class="col-sm-10">
                           <h3 class="">{{ item.name }}</h3>
@@ -147,7 +147,7 @@
                           {% assign item-content = item.content | strip_newlines %}
                           {% if item-content != "" %}
                           <div class="mt-1">
-                            <a href="{{ site.url }}{{ item.url }}" class="text-white font-weight-bold" title="Learn more about {{ item.link_file_1_label }}"><i
+                            <a href="{{ site.url }}/{{ item.url }}" class="text-white font-weight-bold" title="Learn more about {{ item.link_file_1_label }}"><i
                                 class="fas fa-angle-double-right"></i> Read More</a>
                           </div>
                           {% endif %}

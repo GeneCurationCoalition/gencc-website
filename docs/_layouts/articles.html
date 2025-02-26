@@ -15,14 +15,14 @@
     <div class="mb-4 pt-4 pb-4 row">
       <div class="col-12">
         <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
-          <img src="{{ site.url }}assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+          <img src="{{ site.url }}/assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
         </div>
         <h2 class="mt-0 pt-0">{{ item.title }}</h2>
         {{ item.summary }}
         {% assign item-content = item.content | strip_newlines %}
         {% if item-content != "" %}
         <div class="mt-1">
-          <a href="{{ site.url }}{{ item.url }}" title="Learn more about {{ item.link_file_1_label }}"><i class="fas fa-angle-double-right"></i> Read More...</a>
+          <a href="{{ site.url }}/{{ item.url }}" title="Learn more about {{ item.link_file_1_label }}"><i class="fas fa-angle-double-right"></i> Read More...</a>
         </div>
         {% endif %}
 
